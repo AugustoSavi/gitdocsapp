@@ -1,0 +1,8 @@
+.gradient {
+    background: linear-gradient(90deg, #26e61f 0%, #0ab435 100%);
+}
+
+.linkHome {
+    display: flex;
+    align-items: center;
+}
