@@ -2,4 +2,4 @@
 
 <p align="center">Landing page desenvolvido durante o startup Weekend 2022 em Criciúma</p>
 
-![image](https://user-images.githubusercontent.com/32443720/169745945-ec4eae11-118b-448b-b8a7-14ef298628f1.png)
+![image](https://user-images.githubusercontent.com/32443720/169746198-c9b80d02-801b-4457-a9e9-48990c174505.png)
